@@ -1,0 +1,1 @@
+This project was made with the idea of practicing HTML, CSS & Javascript concepts.
